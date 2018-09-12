@@ -3,7 +3,7 @@ class Czecs < Formula
   homepage "https://github.com/chanzuckerberg/czecs"
   url "https://github.com/chanzuckerberg/czecs/releases/download/v0.0.3/czecs_0.0.3_darwin_amd64.tar.gz"
   version "0.0.3"
-  sha256 "bfb31907f7d9980c1b309db7dfc8fcc8d1cc82bd9af8b604cb572c9c427aa520"
+  sha256 "b9f4fe4145f3e44fc445bb9996718276f631361d2382381a4367b4f3b506e42a"
 
   def install
     bin.install "czecs"

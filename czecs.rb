@@ -1,9 +1,9 @@
 class Czecs < Formula
   desc "ECS release management tool."
   homepage "https://github.com/chanzuckerberg/czecs"
-  url "https://github.com/chanzuckerberg/czecs/releases/download/v0.0.2/czecs_0.0.2_darwin_amd64.tar.gz"
-  version "0.0.2"
-  sha256 "627f3656ab4da8b22b0bc3b0b51eaa3e4c9ceaddded3df28b93f8ec3def14868"
+  url "https://github.com/chanzuckerberg/czecs/releases/download/v0.0.3/czecs_0.0.3_darwin_amd64.tar.gz"
+  version "0.0.3"
+  sha256 "bfb31907f7d9980c1b309db7dfc8fcc8d1cc82bd9af8b604cb572c9c427aa520"
 
   def install
     bin.install "czecs"
